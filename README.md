@@ -1,7 +1,24 @@
 # Material Theme
-Material Theme for vscode,enjoy it!
+One of the most popular theme on VS Code  
 
-[github repository](https://github.com/Binaryify/Material-Theme-vscode)
+Maybe the best theme on VS Code! 
+
+enjoy it!
+
+[GitHub repository](https://github.com/Binaryify/Material-Theme-vscode)
+
+# What's new?
+1. improve java support
+
+2. improve C/C++ support 
+
+3. improve python support 
+
+4. improve markdown support 
+
+5. improve JS and JSON support
 
 # ScreenShot
-![ScreenShot](https://storage.jumpshare.com/preview/7ZEhWUkjdvpKlvd9oSkXn1uq7fOMi9LPKIy3xeCKe12SOAT4GEQPVSU3y982iiWa3nhj-06dE1n7v98j9V4sNlNlSmh0egFbdyHzE6LvoMAI4av1wcwKsmUDuTGzHRrg)
+![ScreenShot](https://raw.githubusercontent.com/Binaryify/Material-Theme-vscode/master/static/screenshot1.png)
+
+![ScreenShot](https://raw.githubusercontent.com/Binaryify/Material-Theme-vscode/master/static/screenshot2.png)
